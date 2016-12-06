@@ -12,4 +12,4 @@ subscriber that recieves goals and make turtlebot drive
 
 # tb_rviz_interaction.py
 
-some simulation crap
+some simulation code
